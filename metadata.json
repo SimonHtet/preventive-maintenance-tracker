@@ -1,0 +1,8 @@
+{
+  "name": " Preventive Maintenance Tracker",
+  "description": "A mobile-friendly application to track preventive maintenance tasks for equipment, including photo uploads, signatures, and PDF reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
